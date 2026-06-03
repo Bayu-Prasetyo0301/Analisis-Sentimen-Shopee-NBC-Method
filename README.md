@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk melakukan **analisis sentimen terhadap ulasan aplikas
 Analisis ini mengklasifikasikan ulasan pengguna ke dalam tiga kategori:
 - ✅ Positif  
 - ⚖️ Netral  
-- ❌ Negatif  
+- ❌ Negatif
 
 ---
 
